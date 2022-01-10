@@ -1,14 +1,15 @@
 #include<stdio.h>
 
-void soyab (){
+void soyab_ahmed (){
 
-    printf("Soyab");
+    int a = 10;
+    printf("Soyab Ahmed");
 
 }
 
 
 int main (){
 
-    soyab();
+    soyab_ahmed();
 
 }
